@@ -43,6 +43,7 @@
     <script type="text/javascript" src="./pageloader.js"></script>
   </head>
   <body>
+    <div id="preloader"></div>
 
 
     <div>
@@ -259,5 +260,11 @@
         />
       </div>
     </div>
+      <script>
+        var loader = document.getElementbyId("preloader");
+        window.addEventListener("load",function(){
+        loader.style.display = "none";
+        })
+      </script>
   </body>
 </html>
