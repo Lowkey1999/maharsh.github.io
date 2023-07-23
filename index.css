@@ -969,6 +969,40 @@
   .contactus-text05 {
     width: 100%;
   }
+
+  .contactus-line1 {
+    left: 0px;
+    right: 0px;
+    width: 80vw;
+    margin: auto;
+  }
+  .contactus-line2 {
+    left: 0px;
+    right: 0px;
+    width: 80vw;
+    margin: auto;
+  }
+  .contactus-line3 {
+    left: 0px;
+    right: 0px;
+    width: 80vw;
+    bottom: 845px;
+    margin: auto;
+  }
+  .contactus-line4 {
+    left: 0px;
+    right: 0px;
+    width: 80vw;
+    bottom: 1075px;
+    margin: auto;
+  }
+  .contactus-line5 {
+    left: 0px;
+    right: 0px;
+    width: 80vw;
+    bottom: 730px;
+    margin: auto;
+  }
   
   .contactus-work-container {
     left: 30px;
