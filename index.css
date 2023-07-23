@@ -957,6 +957,11 @@
   .contactus-text18 {
     bottom: -20px;
   }
+
+  .contactus-text01 {
+    width: 100%;
+  }
+  
   .contactus-work-container {
     left: 30px;
   }
